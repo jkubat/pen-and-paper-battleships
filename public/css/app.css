@@ -1,0 +1,6 @@
+tbody td:nth-child(1) { 
+   color: #495057;
+   background-color: #e9ecef;
+   border-color: #dee2e6;
+   font-weight:bold;
+ }
